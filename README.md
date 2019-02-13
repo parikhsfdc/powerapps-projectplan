@@ -7,3 +7,4 @@ Powerapps Project Plan for Construction Company
 4) Test Plan 
 5) Deployment Plan for Powerapps
 6) Pre-Production
+7) Production
